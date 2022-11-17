@@ -1,0 +1,26 @@
+.ortala{
+    width: 351px;
+    height: 113px;
+    margin: 0 auto;
+}
+
+.tablo{
+    width: 90%;
+}
+
+a:active{
+    color: red;
+}
+
+.kutu1{
+    background-color: #7EE5DA;
+}
+
+.kutu2{
+    font-size: -1px;
+    background-color: #70CCC2;
+}
+
+.kutu3{
+    background-color: #62B3AA;
+}
